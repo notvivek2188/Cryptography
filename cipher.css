@@ -1,0 +1,795 @@
+html, body{position: absolute;
+    width: auto;
+    height: 3000;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #373535;
+    overflow: auto;
+    overflow-x: hidden;}
+
+#design1
+{
+    position: absolute;
+    width: 1483px;
+    height: 138px;
+    left: 16px;
+    top: 35px;
+    background: #DED9D9;
+    border-radius: 26px;
+}
+
+#logo
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: -30px;
+    top: -47px;
+}
+
+#name
+{
+    position: absolute;
+    width: 264px;
+    height: 40px;
+    left: 184px;
+    top: 35px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#lock
+{
+    position: absolute;
+    width: 455px;
+    height: 429px;
+    left: 481px;
+    top: -143px;
+}
+
+#text1
+{
+    position: absolute;
+    left: 856px;
+    top: 22px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: black;
+}
+
+#text2
+{
+    position: absolute;
+    left: 1006px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black; 
+}
+
+#text3
+{
+    position: absolute;
+    left: 1306px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black;
+}
+
+#hr1
+{
+    position: absolute;
+    width: 10000px;
+    left: 0px;
+    border: 2px solid #D9D9D9;
+    top: 184px;
+}
+
+#halfhr1
+{
+    position: absolute;
+    width: 542px;
+    height: 2px;
+    left: 0px;
+    top: 288px;
+}
+
+#halfhr2
+{
+    position: absolute;
+    width: 692px;
+    height: 2px;
+    left: 990px;
+    top: 288px;
+}
+
+#cipher
+{
+    position: absolute;
+    width: 238px;
+    height: 70px;
+    left: 628px;
+    top: 200px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 70px;
+    color: white
+}
+
+#effect1
+{
+    position: absolute;
+    width: 55px;
+    height: 5161px;
+    left: 140px;
+    top: 410px;
+}
+
+#effect2
+{
+    position: absolute;
+    width: 55px;
+    height: 5161px;
+    left: 440px;
+    top: 310px;
+}
+
+#effect3
+{
+    position: absolute;
+    width: 55px;
+    height: 5161px;
+    left: 740px;
+    top: 460px;
+}
+
+#effect4
+{
+    position: absolute;
+    width: 55px;
+    height: 5161px;
+    left: 1040px;
+    top: 360px;
+}
+
+#effect5
+{
+    position: absolute;
+    width: 55px;
+    height: 5161px;
+    left: 1340px;
+    top: 390px;
+}
+
+#cipher1
+{
+    position: absolute;
+    width: 514px;
+    height: 70px;
+    left: 608px;
+    top: 403px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color: white;
+}
+
+#halfhr3
+{
+    position: absolute;
+    width: 507px;
+    height: 1px;
+    left: 0px;
+    top: 471px;
+}
+
+#halfhr4
+{
+    position: absolute;
+    width: 507px;
+    height: 1px;
+    left: 1000px;
+    top: 471px;
+}
+
+#textcipher1
+{
+    position: absolute;
+    width: 653px;
+    height: 646px;
+    left: 40px;
+    top: 590px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+}
+
+#text1image
+{
+    position: absolute;
+    width: 406px;
+    height: 406px;
+    left: 978px;
+    top: 610px;
+}
+
+#halfhr5
+{
+    position: absolute;
+    width: 507px;
+    height: 1px;
+    left: 0px;
+    top: 1131px;
+}
+
+#halfhr6
+{
+    position: absolute;
+    width: 507px;
+    height: 1px;
+    left: 1000px;
+    top: 1131px;
+}
+
+#cipher2
+{
+    position: absolute;
+    width: 514px;
+    height: 70px;
+    left: 628px;
+    top: 1073px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color: white;
+}
+
+#cipher2text
+{
+    position: absolute;
+    width: 653px;
+    height: 646px;
+    left: 840px;
+    top: 1290px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+}
+
+#cipher2image
+{
+    position: absolute;
+    width: 672px;
+    height: 326px;
+    left: 38px;
+    top: 1373px;
+}
+
+#halfhr7
+{
+    position: absolute;
+    width: 578px;
+    height: 2px;
+    left: 0px;
+    top: 1894px;
+}
+
+#halfhr8
+{
+    position: absolute;
+    width: 578px;
+    height: 2px;
+    left: 1000px;
+    top: 1894px;
+}
+
+#cipher3
+{
+    position: absolute;
+    width: 340px;
+    height: 70px;
+    left: 700px;
+    top: 1829px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color: white;
+}
+
+#cipher3text
+{
+    position: absolute;
+    width: 653px;
+    height: 646px;
+    left: 40px;
+    top: 2030px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+}
+
+#cipher3image
+{
+    position: absolute;
+    width: 658px;
+    height: 149px;
+    left: 822px;
+    top: 2320px;
+}
+
+#halfhr9
+{
+    position: absolute;
+    width: 546px;
+    height: 2px;
+    left: 0px;
+    top: 2851px;
+}
+
+#halfhr10
+{
+    position: absolute;
+    width: 546px;
+    height: 2px;
+    left: 1000px;
+    top: 2851px;
+}
+
+#cipher4
+{
+    position: absolute;
+    width: 398px;
+    height: 70px;
+    left: 668px;
+    top: 2791px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color:white
+}
+
+#cipher4text
+{
+    position: absolute;
+    width: 553px;
+    height: 646px;
+    left: 902px;
+    top: 2980px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+}
+
+#cipher4image
+{
+    position: absolute;
+    width: 407px;
+    height: 407px;
+    left: 149px;
+    top: 3000px;
+}
+
+#halfhr11
+{
+    position: absolute;
+    width: 546px;
+    height: 2px;
+    left: 1090px;
+    top: 3551px;
+}
+
+#halfhr12
+{
+    position: absolute;
+    width: 506px;
+    height: 2px;
+    left: 0px;
+    top: 3551px;
+}
+
+#cipher5
+{
+    position: absolute;
+    width: 398px;
+    height: 70px;
+    left: 668px;
+    top: 3491px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color:white
+}
+
+#cipher5text
+{
+    position: absolute;
+    width: 653px;
+    height: 646px;
+    left: 40px;
+    top: 3690px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+}
+
+#cipher5image
+{
+    position: absolute;
+    width: 547px;
+    height: 247px;
+    left: 909px;
+    top: 3740px;
+}
+
+#halfhr13
+{
+    position: absolute;
+    width: 420px;
+    height: 2px;
+    left: 1100px;
+    top: 4251px;
+}
+
+#halfhr14
+{
+    position: absolute;
+    width: 486px;
+    height: 2px;
+    left: 0px;
+    top: 4251px;
+}
+
+#cipher6
+{
+    position: absolute;
+    width: 498px;
+    height: 70px;
+    left: 600px;
+    top: 4187px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color:white
+}
+
+#cipher6text
+{
+    position: absolute;
+    width: 1053px;
+    height: 646px;
+    left: 250px;
+    top: 4360px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+#cipher6example
+{
+    position: absolute;
+    width: 1053px;
+    height: 646px;
+    left: 270px;
+    top: 4560px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+#halfhr15
+{
+    position: absolute;
+    width: 420px;
+    height: 2px;
+    left: 1100px;
+    top: 4851px;
+}
+
+#halfhr16
+{
+    position: absolute;
+    width: 486px;
+    height: 2px;
+    left: 0px;
+    top: 4851px;
+}
+
+#cipher7
+{
+    position: absolute;
+    width: 498px;
+    height: 70px;
+    left: 600px;
+    top: 4787px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    color:white
+}
+
+#cipher7text
+{
+    position: absolute;
+    width: 1053px;
+    height: 646px;
+    left: 270px;
+    top: 4960px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+
+#cipher7example
+{
+    position: absolute;
+    width: 1053px;
+    height: 646px;
+    left: 270px;
+    top: 5160px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 60px;
+    color: white;
+    text-align: center;
+}
+
+#newnewhr
+{
+    position: absolute;
+    width: 1920px;
+    height: 2px;
+    left: 0px;
+    top: 5323.59px;
+}
+
+#selfsponsor1
+{
+    position: absolute;
+    width: 1067px;
+    height: 50px;
+    left: 103px;
+    top: 5433px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    color: white;
+}
+
+#cipherlink
+{
+    position: absolute;
+    width: 1237px;
+    height: 50px;
+    left:870px;
+    top: 5555px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color:white;
+    line-height: 50px;
+    text-decoration: underline;
+}
+
+#footer
+{
+    position: absolute;
+    width: 1920px;
+    height: 176px;
+    left: 0px;
+    top: 5690px;
+    background: #D9D9D9;
+}
+
+#footertext
+{
+    position: absolute;
+    width: 1422px;
+    height: 61px;
+    left: 262px;
+    top: 11px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 70px;
+    color: #000000;
+}
+
+#binary1
+{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left: 390px;
+    top: 982px;
+}
+
+#binary2
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 689px;
+    top: 600px;
+}
+
+#binary3
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 1209px;
+    top: 906px;
+}
+
+#binary4
+{
+    position: absolute;
+    width: 460px;
+    height: 460px;
+    left: 1095px;
+    top: 1729px;
+}
+
+#binary5
+{
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: 795px;
+    top: 1909px;
+}
+
+#binary6
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 1095px;
+    top: 2509px;
+}
+
+#binary7
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 795px;
+    top: 2609px;
+}
+
+#binary8
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 495px;
+    top: 3009px;
+}
+
+#binary15
+{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left:-195px;
+    top: 3109px;
+}
+
+#binary9
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:645px;
+    top: 3709px;
+}
+
+#binary10
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:345px;
+    top: 4009px;
+}
+
+#binary11
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:1245px;
+    top: 4409px;
+}
+
+#binary12
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:5px;
+    top: 4309px;
+}
+
+#binary13
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:-64px;
+    top: 4909px;
+}
+
+#binary14
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left:984px;
+    top: 5109px;
+}

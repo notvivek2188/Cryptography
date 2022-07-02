@@ -1,0 +1,476 @@
+
+    html, body{
+        position: absolute;
+        width: auto;
+        height: 2900;
+        top:0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: #373535;
+        overflow: auto;
+        overflow-x: hidden;}
+    
+    #design1
+    {
+        position: absolute;
+        width: 1483px;
+        height: 138px;
+        left: 16px;
+        top: 35px;
+        background: #DED9D9;
+        border-radius: 26px;
+    }
+
+    #logo
+    {
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        left: -30px;
+        top: -47px;
+    }
+
+    #name
+    {
+        position: absolute;
+        width: 264px;
+        height: 40px;
+        left: 184px;
+        top: 35px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    #lock
+    {
+        position: absolute;
+        width: 455px;
+        height: 429px;
+        left: 481px;
+        top: -143px;
+    }
+
+    #text1
+    {
+        position: absolute;
+        left: 856px;
+        top: 22px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 40px;
+        color: black;
+    }
+
+    #text2
+    {
+        position: absolute;
+        left: 1006px;
+        top: 26px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 40px;  
+        color: black; 
+    }
+
+    #text3
+    {
+        position: absolute;
+        left: 1306px;
+        top: 26px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 27px;
+        line-height: 40px;  
+        color: black;
+    }
+
+    #hr1
+    {
+        position: absolute;
+        width: 10000px;
+        left: -1502px;
+        border: 2px solid #D9D9D9;
+        top: 184px;
+    }
+
+    #img1
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: -316px;
+    top: 283px;
+}
+    #img2
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -256px;
+        top: 239px;
+    }
+
+    #img3
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -194px;
+        top: 297px;
+    }
+
+    #img4
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -316px;
+        top: 975px;
+    }
+
+    #img5
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -256px;
+        top: 932px;
+    }
+    
+    #img6 
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -194px;
+        top: 990px;
+    }
+
+    #hr2
+    {
+        
+        position: absolute;
+        height:2100px;
+        left: 206px;
+        top: 184px;
+        border: 2px solid #D9D9D9;
+    }
+
+    #question
+    {
+        position: absolute;
+        width: 736px;
+        height: 70px;
+        left: 286px;
+        top: 247px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+        color: white
+    }
+
+    #answer
+    {
+        position: absolute;
+        width: 1018px;
+        height: 280px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 50px;
+        color: #FFFFFF;
+        left: 286px;
+        top: 382px;
+    }
+
+    #tag
+    {
+        position: absolute;
+        width: 776px;
+        height: 776px;
+        left: 458px;
+        top: 509px;
+    }
+
+    #hr3
+    {
+        position: absolute;
+        width: 3601.05px;
+        height: 0px;
+        left: 209px;
+        top: 1289px;
+        border: 3px solid #D9D9D9;
+    }
+
+    #effect
+    {
+        position: absolute;
+        width: 80px;
+        height: 1090px;
+        left: 1306px;
+        top: 203px;
+    }
+
+    #effect2
+    {
+        position: absolute;
+        width: 36px;
+        height: 910px;
+        left: 329px;
+        top: 333px;
+    }
+
+    #effect3
+    {
+        position: absolute;
+        width: 56px;
+        height: 1010px;
+        left: 1412px;
+        top: 304px;
+    }
+
+    #effect4
+    {
+        position: absolute;
+        width: 56px;
+        height: 910px;
+        left: 612px;
+        top: 234px;
+    }
+
+    #effect5
+    {
+        position: absolute;
+        width: 100px;
+        height: 1012px;
+        left: 1001px;
+        top: 24px
+    }
+
+    #footer
+    {
+        position: absolute;
+        width: 1920px;
+        height: 176px;
+        left: 0px;
+        top: 2290px;
+        background: #D9D9D9;
+    }
+
+    #footertext
+    {
+        position: absolute;
+        width: 1422px;
+        height: 61px;
+        left: 262px;
+        top: 11px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 70px;
+        color: #000000;
+    }
+
+    #img7
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -316px;
+        top: 1670px;
+    }
+
+    #img8
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -256px;
+        top: 1627px;
+    }
+
+    #img9
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: -194px;
+        top: 1622px;
+    }
+
+    #computer
+    {
+        position: absolute;
+        width: 652px;
+        height: 652px;
+        left: 530px;
+        top: 1599px;
+    }
+
+    #word1
+    {
+        position: absolute;
+        color: white;
+        font-size: 40px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        width: 462px;
+        height: 70px;
+        left: 259px;
+        top: 1300px;
+        transform: rotate(-30deg);
+    }
+
+    #word2
+    {
+        position: absolute;
+        width: 446px;
+        height: 70px;
+        left: 397px;
+        top: 1500.73px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(-12deg)
+    }
+
+    #word3
+    {
+        position: absolute;
+        width: 463px;
+        height: 91.8px;
+        left: 625px;
+        top: 1264.91px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(-23deg);
+    }
+
+    #word4
+    {
+        position: absolute;
+        width: 485px;
+        height: 21px;
+        left: 1150.53px;
+        top: 1808px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(27deg);
+    }
+
+    #word5
+    {
+        position: absolute;
+        width: 329px;
+        height: 70px;
+        left: 935.35px;
+        top: 1528px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(23deg);
+    }
+
+    #word6
+    {
+        position: absolute;
+        width: 336px;
+        height: 71.81px;
+        left: 1197.16px;
+        top: 1442px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(34deg);
+    }
+
+    #word7
+    {
+        position: absolute;
+        width: 518px;
+        height: 83.49px;
+        left: 300px;
+        top: 1740.66px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        line-height: 70px;
+        color: #FFFFFF;
+        transform: rotate(-34deg);
+    }
+
+    #greenline1
+    {
+        position: absolute;
+        width: 39px;
+        height: 1056px;
+        left: 282px;
+        top: 1321px;
+    }
+
+    #greenline2
+    {
+        position: absolute;
+        width: 92px;
+        height: 612px;
+        left: 502px;
+        top: 1400px;
+    }
+
+    #greenline3
+    {
+        position: absolute;
+        width: 46px;
+        height: 856px;
+        left: 766px;
+        top: 1342px;
+    }
+
+    #greenline4
+    {
+        position: absolute;
+        width: 76px;
+        height: 956px;
+        left: 990px;
+        top: 1442px;
+    }
+
+    #greenline5
+    {
+        position: absolute;
+        width: 46px;
+        height: 826px;
+        left: 1290px;
+        top: 1312px;
+    }

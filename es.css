@@ -1,0 +1,561 @@
+html, body{position: absolute;
+    width: auto;
+    height: 3000;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #373535;
+    overflow: auto;
+    overflow-x: hidden;}
+
+#design1
+{
+    position: absolute;
+    width: 1483px;
+    height: 138px;
+    left: 16px;
+    top: 35px;
+    background: #DED9D9;
+    border-radius: 26px;
+}
+
+#logo
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: -30px;
+    top: -47px;
+}
+
+#name
+{
+    position: absolute;
+    width: 264px;
+    height: 40px;
+    left: 184px;
+    top: 35px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#lock
+{
+    position: absolute;
+    width: 455px;
+    height: 429px;
+    left: 481px;
+    top: -143px;
+}
+
+#text1
+{
+    position: absolute;
+    left: 856px;
+    top: 22px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: black;
+}
+
+#text2
+{
+    position: absolute;
+    left: 1006px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black; 
+}
+
+#text3
+{
+    position: absolute;
+    left: 1306px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black;
+}
+
+#hr1
+{
+    position: absolute;
+    width: 10000px;
+    left: -1502px;
+    border: 2px solid #D9D9D9;
+    top: 184px;
+}
+
+#img1
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 233px;
+}
+    #img2
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 209px;
+    }
+
+    #img3
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 247px;
+    }
+
+    #img4
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 930px;
+}
+    #img5
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 903px;
+    }
+
+    #img6
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 943px;
+    }
+    #img7
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 1627px;
+}
+    #img8
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 1597px;
+    }
+
+    #img9
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 1639px;
+    }
+
+    #img10
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 2324px;
+}
+    #img11
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 2294px;
+    }
+
+    #img12
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 2337px;
+    }
+
+    #img13
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 3021px;
+}
+    #img14
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 2991px;
+    }
+
+    #img15
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 3034px;
+    }
+
+    #img16
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 3718px;
+}
+    #img17
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 3688px;
+    }
+
+    #img18
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 3731px;
+    }
+
+    #img19
+    {position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 4415px;
+}
+    #img20
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1056px;
+        top: 4385px;
+    }
+
+    #img21
+    {
+        position: absolute;
+        width: 710px;
+        height: 710px;
+        left: 1109px;
+        top: 4428px;
+    }
+
+    #hrline1
+    {
+        position: absolute;
+        width: 3px;
+        height: 5094px;
+        left: 1326px;
+        top: 185px;
+
+    }
+
+    #effect1
+    {
+        position: absolute;
+        width: 176px;
+        height: 5063px;
+        left: 1202px;
+        top: 223px;
+    }
+
+    #question1
+    {
+        position: absolute;
+        width: 1039px;
+        height: 70px;
+        left: 100px;
+        top: 285px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+        color: white;
+    }
+
+    #answer1
+    {
+        position: absolute;
+        width: 1168px;
+        height: 240px;
+        left: 100px;
+        top: 471px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 60px;
+        color:white
+    }
+
+    #key
+    {
+        position: absolute;
+        width: 1100px;
+        height: 482px;
+        left: 100px;
+        top: 767px;
+        border-radius: 78px;
+    }
+
+    #hr1
+    {
+        position: absolute;
+        width: 2830px;
+        height: 2px;
+        top: 1300px;
+    }
+
+    #hr2
+    {
+        position: absolute;
+        width: 3601.05px;
+        height: 2px;
+        left: -16px;
+        top: 181px;
+    }
+
+    #question2
+    {
+        position: absolute;
+        width: 1039px;
+        height: 70px;
+        left: 100px;
+        top: 1385px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+        color: white;
+    }
+
+    #answer2
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 1534px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #answer2con
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 1754px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #questionimage
+    {
+        position: absolute;
+        height: 383px;
+        width: 825px;
+        left: 108px;
+        top: 2093px;
+        border-radius: 19px;
+    }
+
+    #hr3
+    {
+        position: absolute;
+        width: 1334px;
+        height: 3px;
+        left: -8px;
+        top: 2554px;
+    }
+
+    #question3
+    {
+        position: absolute;
+        width: 1039px;
+        height: 70px;
+        left: 100px;
+        top: 2620px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+        color: white;
+    }
+
+    #answer3
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 2780px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #answer3con
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 3030px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #answer3image
+    {
+        position: absolute;
+        height: 483px;
+        width: 900px;
+        left: 108px;
+        top: 3300px;
+        border-radius: 19px;
+    }
+
+    #hr4
+    {
+        position: absolute;
+        width: 1334px;
+        height: 3px;
+        left: -8px;
+        top: 3854px;
+    }
+
+    #question4
+    {
+        position: absolute;
+        width: 1039px;
+        height: 70px;
+        left: 100px;
+        top: 3940px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 70px;
+        color: white;
+    }
+
+    #answer4
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 4080px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #answer4con
+    {
+        position: absolute;
+        width: 1200px;
+        height: 70px;
+        left: 100px;
+        top: 4290px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 33px;
+        line-height: 40px;
+        color: white;
+    }
+
+    #answer4image
+    {
+        position: absolute;
+        height: 383px;
+        width: 1000px;
+        left: 108px;
+        top: 4650px;
+        border-radius: 19px;
+    }
+
+    #footer
+    {
+        position: absolute;
+        width: 1920px;
+        height: 176px;
+        left: 0px;
+        top: 5135px;
+        background: #D9D9D9;
+    }
+
+    #footertext
+    {
+        position: absolute;
+        width: 1422px;
+        height: 61px;
+        left: 262px;
+        top: 11px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 70px;
+        color: #000000;
+    }

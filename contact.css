@@ -1,0 +1,240 @@
+html, body{position: absolute;
+    width: auto;
+    height: 3000;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #373535;
+    overflow: auto;
+    overflow-x: hidden;}
+
+#design1
+{
+    position: absolute;
+    width: 1483px;
+    height: 138px;
+    left: 16px;
+    top: 35px;
+    background: #DED9D9;
+    border-radius: 26px;
+}
+
+#logo
+{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: -30px;
+    top: -47px;
+}
+
+#name
+{
+    position: absolute;
+    width: 264px;
+    height: 40px;
+    left: 184px;
+    top: 35px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+}
+
+#lock
+{
+    position: absolute;
+    width: 455px;
+    height: 429px;
+    left: 481px;
+    top: -143px;
+}
+
+#text1
+{
+    position: absolute;
+    left: 856px;
+    top: 22px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: black;
+}
+
+#text2
+{
+    position: absolute;
+    left: 1006px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black; 
+}
+
+#text3
+{
+    position: absolute;
+    left: 1306px;
+    top: 26px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;  
+    color: black;
+}
+
+#hr1
+{
+    position: absolute;
+    width: 10000px;
+    left: -1502px;
+    border: 2px solid #D9D9D9;
+    top: 184px;
+}
+
+#text
+{
+    position: absolute;
+    width: 336px;
+    height: 90px;
+    left: 136px;
+    top: 257px;
+    color: white;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 90px;
+}
+
+#img1
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1100px;
+    top: 233px;
+}
+
+#img2
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1050px;
+    top: 213px;
+}
+
+#img3
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 1000px;
+    top: 243px;
+}
+
+#img4
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 950px;
+    top: 213px;
+}
+
+#img5
+    {
+    position: absolute;
+    width: 710px;
+    height: 710px;
+    left: 900px;
+    top: 253px;
+}
+
+#footer
+    {
+        position: absolute;
+        width: 1920px;
+        height: 176px;
+        left: 0px;
+        top: 950px;
+        background: #D9D9D9;
+    }
+
+    #footertext
+    {
+        position: absolute;
+        width: 1422px;
+        height: 61px;
+        left: 262px;
+        top: 11px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 70px;
+        line-height: 70px;
+        color: #000000;
+    }
+
+    #hrline1
+    {
+        position: absolute;
+        width: 3px;
+        height: 820px;
+        left: 1205px;
+        top: 184px;
+    }
+
+    #email1
+{
+    position: absolute;
+    width: 336px;
+    height: 90px;
+    left: 146px;
+    top: 387px;
+    color: white;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 90px;
+}
+
+#email2
+{
+    position: absolute;
+    width: 336px;
+    height: 90px;
+    left: 146px;
+    top: 487px;
+    color: white;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 90px;
+}
+
+#email3
+{
+    position: absolute;
+    width: 336px;
+    height: 90px;
+    left: 146px;
+    top: 587px;
+    color: white;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 90px;
+}
